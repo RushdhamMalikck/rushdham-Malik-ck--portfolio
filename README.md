@@ -4,7 +4,8 @@ A single file portfolio site (`index.html`): dot-portrait hero that morphs into 
 
 ## Run locally
 Open `index.html` in a browser.
-       OR 
+
+OR 
 Click the hosted link below for a url experience : https://rushdham-portfolio.vercel.app/
 
 ## Deploy
