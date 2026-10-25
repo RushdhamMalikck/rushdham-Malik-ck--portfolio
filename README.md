@@ -1,6 +1,6 @@
 # Rushdham Malik C K — Portfolio
 
-A single-file portfolio site (`index.html`): dot-portrait hero that morphs into a rotating globe, a DNA helix with a torch-bearer, a dotted neural net, and a closing name in dots. Built with plain HTML/CSS/JS and three.js (loaded from a CDN). No build step.
+A single file portfolio site (`index.html`): dot-portrait hero that morphs into a rotating globe, a DNA helix with a torch-bearer, a dotted neural net, and a closing name in dots. Built with plain HTML/CSS/JS and three.js.Named it to be Algorithm & Aesthetics.
 
 ## Run locally
 Open `index.html` in a browser.
